@@ -1,0 +1,15 @@
+# 编译中间产物
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.toc
+*.nav
+*.snm
+*.vrb
+__pycache__/
+*.pyc
