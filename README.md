@@ -3,7 +3,7 @@
 **Guancheng Pan**
 
 A preprint on Kakimizu's contractibility problem for knots. This is the
-**third version** (4 September 2026, 52 pages). It replaces the first version
+**third version** (4 September 2026, 55 pages). It replaces the first version
 of 2 September 2026, which was a 136-page conditional manuscript; the
 differences are listed under *Version history* below, and the earlier file
 remains in the commit history of this repository.
@@ -62,7 +62,7 @@ criterion by a reindexing.
 
 | File | |
 |---|---|
-| `kakimizu.pdf` | the manuscript, 52 pages, `amsart` |
+| `kakimizu.pdf` | the manuscript, 55 pages, `amsart` |
 
 The LaTeX source is not published here.
 
