@@ -1,6 +1,6 @@
 # Contractibility of the complex of incompressible Seifert surfaces: the knot case of Kakimizu's problem
 
-**Guancheng Pan**
+**Apex Intelligence**
 
 A preprint on Kakimizu's contractibility problem for knots. This is the
 **third version** (4 September 2026, 55 pages). It replaces the first version
@@ -128,6 +128,6 @@ issue. A refutation is worth more than a citation.
 
 ## Licence
 
-Copyright © 2026 Guancheng Pan. `kakimizu.pdf` is licensed under
+Copyright © 2026 Apex Intelligence. `kakimizu.pdf` is licensed under
 [Creative Commons Attribution 4.0 International](LICENSE) (CC BY 4.0): reuse,
 redistribute and adapt freely, including commercially, with attribution.
