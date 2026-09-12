@@ -1,9 +1,27 @@
 # Contractibility of the complex of incompressible Seifert surfaces: the knot case of Kakimizu's problem
 
+## arXiv status — checked 13 September 2026
+
+**Public preprint; revised version submitted and awaiting processing.**
+The announced version is [arXiv:2609.09224v1](https://arxiv.org/abs/2609.09224v1)
+(math.GT, 55 pages; submitted 7 September 2026).
+
+A revised 69-page manuscript was submitted on 12 September 2026 as a
+replacement of the same article, under submission number `8066712`. Its title
+is **Exchange complexes and contractibility of the complex of incompressible
+Seifert surfaces**. The account currently shows `submitted`; this revision is
+not yet the publicly announced arXiv version. It expands the fixed-boundary
+area-attainment, uniform area-gain and isotopy arguments.
+
+The repository's `kakimizu.pdf` and the mathematical discussion below describe
+the earlier 55-page manuscript. The manuscript labels in *Version history*
+are local revision labels, not arXiv version numbers.
+
 **Apex Intelligence**
 
-A preprint on Kakimizu's contractibility problem for knots. This is the
-**third version** (4 September 2026, 55 pages). It replaces the first version
+A preprint on Kakimizu's contractibility problem for knots. The manuscript
+file currently in this repository is the **third manuscript version**
+(4 September 2026, 55 pages). It replaces the first version
 of 2 September 2026, which was a 136-page conditional manuscript; the
 differences are listed under *Version history* below, and the earlier file
 remains in the commit history of this repository.
